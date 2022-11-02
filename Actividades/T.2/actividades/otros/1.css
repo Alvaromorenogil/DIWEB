@@ -1,0 +1,21 @@
+body {
+    color: #ff0101;
+    font-style: bold;
+    font-family: Arial;
+
+}
+
+h1 {
+    font-size: 50px;
+
+}
+
+h2 {
+    font-size: 200%;
+    
+}
+
+h3 {
+    font-size: 5em;
+    
+}

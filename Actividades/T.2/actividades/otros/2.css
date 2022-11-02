@@ -1,0 +1,20 @@
+body {
+    text-align: center;
+    font-size: 25px;
+
+}
+
+.primero{
+    color: blue;
+
+}
+
+.par {
+    color: red;
+
+}
+
+.impar {
+    color: green;
+
+}
